@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](assets/hotel_app_design_concept_4x.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
