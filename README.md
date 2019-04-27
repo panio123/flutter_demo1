@@ -4,6 +4,8 @@ A new Flutter project.
 
 ![](assets/hotel_app_design_concept_4x.png)
 
+Design Credit:[https://dribbble.com/shots/6387111-Hotel-App-Design-Concept](https://dribbble.com/shots/6387111-Hotel-App-Design-Concept)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
